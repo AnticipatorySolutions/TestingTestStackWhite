@@ -1,0 +1,17 @@
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\TestStackTest.dll
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\TestStackTest.pdb
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\Castle.Core.dll
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\TestStack.White.dll
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\Castle.Core.xml
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\TestStack.White.pdb
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\TestStack.White.xml
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\obj\Debug\TestStackTest.csprojResolveAssemblyReference.cache
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\obj\Debug\TestStackTest.dll
+c:\users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\obj\Debug\TestStackTest.pdb
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\ExcelToolSet.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\ExcelToolSet.pdb
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\obj\Debug\TestStackTest.csproj.ResolveComReference.cache
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\ScreenCapture.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\ScreenCapture.pdb
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\GenerateXml.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\TestStackTest\bin\Debug\GenerateXml.pdb

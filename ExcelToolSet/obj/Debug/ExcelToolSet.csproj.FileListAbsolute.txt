@@ -1,0 +1,6 @@
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ExcelToolSet\bin\Debug\ExcelToolSet.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ExcelToolSet\bin\Debug\ExcelToolSet.pdb
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ExcelToolSet\obj\Debug\ExcelToolSet.csproj.ResolveComReference.cache
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ExcelToolSet\obj\Debug\ExcelToolSet.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ExcelToolSet\obj\Debug\ExcelToolSet.pdb
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ExcelToolSet\obj\Debug\ExcelToolSet.csprojResolveAssemblyReference.cache

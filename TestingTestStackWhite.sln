@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStackTest", "TestStackTest\TestStackTest.csproj", "{0548151A-5D0C-4408-AAFD-3760C15111FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToolSet", "ExcelToolSet\ExcelToolSet.csproj", "{775BFC6C-E2A3-4711-A111-D7F729D32905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCapture", "ScreenCapture\ScreenCapture.csproj", "{FA0A6BC5-8293-480D-AB53-95411F862F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateXml", "GenerateXml\GenerateXml.csproj", "{420B1BD9-A7BD-4175-8BC2-9335371D375F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTest", "RunTest\RunTest.csproj", "{53BD2094-E98E-4FFA-A113-538DB6FBF505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureWindow", "CaptureWindow\CaptureWindow.csproj", "{CB448E5F-6D7B-4D2A-A365-659DB857CC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0548151A-5D0C-4408-AAFD-3760C15111FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0548151A-5D0C-4408-AAFD-3760C15111FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0548151A-5D0C-4408-AAFD-3760C15111FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0548151A-5D0C-4408-AAFD-3760C15111FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775BFC6C-E2A3-4711-A111-D7F729D32905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775BFC6C-E2A3-4711-A111-D7F729D32905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775BFC6C-E2A3-4711-A111-D7F729D32905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775BFC6C-E2A3-4711-A111-D7F729D32905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0A6BC5-8293-480D-AB53-95411F862F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0A6BC5-8293-480D-AB53-95411F862F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0A6BC5-8293-480D-AB53-95411F862F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0A6BC5-8293-480D-AB53-95411F862F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420B1BD9-A7BD-4175-8BC2-9335371D375F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420B1BD9-A7BD-4175-8BC2-9335371D375F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420B1BD9-A7BD-4175-8BC2-9335371D375F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420B1BD9-A7BD-4175-8BC2-9335371D375F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BD2094-E98E-4FFA-A113-538DB6FBF505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BD2094-E98E-4FFA-A113-538DB6FBF505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BD2094-E98E-4FFA-A113-538DB6FBF505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BD2094-E98E-4FFA-A113-538DB6FBF505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB448E5F-6D7B-4D2A-A365-659DB857CC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB448E5F-6D7B-4D2A-A365-659DB857CC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB448E5F-6D7B-4D2A-A365-659DB857CC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB448E5F-6D7B-4D2A-A365-659DB857CC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sxensql17:8080/tfs/cbibilling
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ExcelToolSet\\ExcelToolSet.csproj
+		SccProjectName1 = ExcelToolSet
+		SccLocalPath1 = ExcelToolSet
+		SccProjectUniqueName2 = GenerateXml\\GenerateXml.csproj
+		SccProjectName2 = GenerateXml
+		SccLocalPath2 = GenerateXml
+		SccProjectUniqueName3 = ScreenCapture\\ScreenCapture.csproj
+		SccProjectName3 = ScreenCapture
+		SccLocalPath3 = ScreenCapture
+		SccProjectUniqueName4 = TestStackTest\\TestStackTest.csproj
+		SccProjectName4 = TestStackTest
+		SccLocalPath4 = TestStackTest
+		SccProjectUniqueName5 = RunTest\\RunTest.csproj
+		SccProjectName5 = RunTest
+		SccLocalPath5 = RunTest
+		SccProjectUniqueName6 = CaptureWindow\\CaptureWindow.csproj
+		SccProjectName6 = CaptureWindow
+		SccLocalPath6 = CaptureWindow
+	EndGlobalSection
+EndGlobal

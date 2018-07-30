@@ -1,0 +1,5 @@
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ScreenCapture\bin\Debug\ScreenCapture.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ScreenCapture\obj\Debug\ScreenCapture.dll
+C:\Users\jorussell\documents\visual studio 2015\Projects\TestingTestStackWhite\ScreenCapture\obj\Debug\ScreenCapture.pdb
